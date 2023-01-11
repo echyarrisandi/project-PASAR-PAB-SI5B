@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8pt"
+    android:orientation="vertical"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:text="Aplikasi Pasar Modern Indonesia adalah aplikasi untuk melihat beberapa list pasar modern yang ada di Indonesia, yang di kembangkan oleh:"
+        />
+    <TextView
+        android:layout_marginTop="4pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Devi Amelia 1923240089"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Dessi Arisandi 1721240057"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3. Chearly Cantika Putri 1923240090"
+        />
+</LinearLayout>

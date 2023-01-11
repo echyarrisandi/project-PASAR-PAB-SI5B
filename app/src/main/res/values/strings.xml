@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Pasar Modern Indonesia</string>
+
+    <string-array name="title">
+        <item>Pasar Modern BSD City</item>
+        <item>Pasar Modern Bintaro</item>
+        <item>Pasar Modern Intermoda BSD City</item>
+        <item>Pasar Modern Paramount Serpong</item>
+        <item>Pasar Modern Graha Raya</item>
+        <item>Pasar Modern PIK</item>
+        <item>Pasar Modern Grandwisata</item>
+        <item>Pasar Ikan Modern Kota Palembang</item>
+        <item>Batununggal Indah Modern Market</item>
+        <item>Pasar Modern Adaro Balangan</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>Jl. Letnan Sutopo, Rw. Mekar Jaya, Kec. Serpong, Kota Tangerang Selatan, Banten 15310</item>
+        <item>Ban ko ko . Wa 15220, Jl. Tegal Rotan Raya No.9, Pd. Pucung, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15220</item>
+        <item>Jl. Raya Serpong - Cisauk, Sampora, Kec. Cisauk, Kabupaten Tangerang, Banten 15345</item>
+        <item>Jl. Boulevard Raya Gading Serpong, Curug Sangereng, Kec. Klp. Dua, Kabupaten Tangerang, Banten 15810</item>
+        <item>Pasar Modern Graha Raya, Jl. Boulevard Graha Raya, RT.002/RW.010, Sudimara Pinang, Kec. Pinang, Kota Tangerang, Banten 15144</item>
+        <item>6, Pantai Indah Kapuk St No.30, RT.6/RW.2, Kamal Muara, Penjaringan, North Jakarta City, Jakarta 14470</item>
+        <item>Pasar Modern Grand Wisata, Jl. Pratama 3 No.2, Lambangsari, Kec. Tambun Sel., Kota Bks, Jawa Barat 17510</item>
+        <item>8 Ilir, Kec. Ilir Tim. II, Kota Palembang, Sumatera Selatan 30163</item>
+        <item>Jl. Batununggal Indah II No.48, Mengger, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40267</item>
+        <item>Jl. M. Naid Komp No.25b, Paringin Kota, Kec. Paringin Sel., Kabupaten Balangan, Kalimantan Selatan 71612</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Sprawling indoor market with stalls selling fresh produce, clothes, baked goods and street food.</item>
+        <item>Pasar Modern Bintaro merupakan salah satu pasar yang berfungsi tidak hanya untuk berbelanja kebutuhan sehari-hari saja, namun juga menyediakan beragam pilihan kuliner. Bagi warga Bintaro, Pasar Modern Bintaro tidak hanya ramai dikunjungi oleh orang dewasa saja, namun juga menjadi tempat nongkrong anak muda.</item>
+        <item>Expansive indoor market in a bright, contemporary space with produce vendors, food stalls and more.</item>
+        <item>Di Pasar Modern Paramount Gading Serpong bisa kulineran seru di malam hari. Ada banyak warung tenda yang menawarkan menu makanan menarik.</item>
+        <item>Pada hari Sabtu tanggal 3 Agustus 2019 yang lalu, Pasar Modern Graha Raya sudah resmi beroperasi. Pasar Modern Graha Raya terletak di Jalan Boulevard Graha Raya yang sangat strategis dan dikelilingi oleh beberapa cluster Graha Raya, seperti Venice dan Fortune sehingga memiliki potensi bisnis yang cukup tinggi.</item>
+        <item>Wilayah Fresh Market PIK yang luas dan strategis memudahkan pengunjung untuk berbelanja. Tempat parkir luas dan tata letak kios yang rapi bikin betah belanja. Di era transisi PSBB, pengelola pasar juga menerapkan protokol kesehatan. Seperti pengecekan suhu setiap pengunjung, penyediaan hand sanitizer hingga wajib mengenakan masker.</item>
+        <item>Bustling, classic covered market with stalls offering seafood, produce, prepared foods and housewares.</item>
+        <item>Pasar Ikan Modern Sako Palembang,  merupakan pasar ikan modern pertama di Pulau Sumatera dan ketiga di seluruh Indonesia.</item>
+        <item>Traditional indoor marketplace with vendors selling fruit, vegetables, spices, meat and fish.</item>
+        <item>Sprawling indoor market with stalls selling fresh produce, clothes, baked goods and street food.</item>
+    </string-array>
+
+    <string-array name="coordinate">
+        <item>-6.304528,106.6848223</item>
+        <item>-6.279602852012696, 106.7189158227795</item>
+        <item>-6.320166168777695, 106.64332064910226</item>
+        <item>-6.248949402219227, 106.62291829999997</item>
+        <item>-6.228344368875794, 106.68247949386577</item>
+        <item>-6.103228698091009, 106.74139181165674</item>
+        <item>-6.275653704180904, 107.04322704662705</item>
+        <item>-2.948638580195567, 104.76757511868038</item>
+        <item>-6.962832638493467, 107.62493441140266</item>
+        <item>-2.332947641335233, 115.46027739853103</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>pasar1</item>
+        <item>pasar2</item>
+        <item>pasar3</item>
+        <item>pasar4</item>
+        <item>pasar5</item>
+        <item>pasar6</item>
+        <item>pasar7</item>
+        <item>pasar8</item>
+        <item>pasar9</item>
+        <item>pasar10</item>
+    </string-array>
+</resources>
